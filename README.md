@@ -23,4 +23,4 @@ Hello! I'm Fan Yang, an ECE graduate student at Duke University. I have a strong
 
 ## Let's Connect 🤝
 
-Feel free to reach out if you're interested in discussing job opportunities or if you represent a company looking for a passionate software development engineer to join your team. I'm actively seeking a SDE position for 2024 New Grad, if you have any suitable positions, please let me know. Even if you just wanna say "hi", you could connect me on LinkedIn, and I am happy to have a talk! 😊
+Feel free to reach out if you're interested in chatting about anything with me, or even if you just wanna say "hi", you could connect me on LinkedIn, and I am happy to have a talk! 😊
